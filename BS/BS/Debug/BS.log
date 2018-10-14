@@ -1,0 +1,4 @@
+﻿  BS.cpp
+d:\myprog\urfum\algistrd\lcs\bs\bs\bs.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BS.vcxproj -> D:\MyProg\UrFUM\AlgIStrD\LCS\BS\Debug\BS.exe
+  BS.vcxproj -> D:\MyProg\UrFUM\AlgIStrD\LCS\BS\Debug\BS.pdb (Full PDB)
